@@ -1,0 +1,16 @@
+Besides this README, this directory includes the following files:
+
+- a Makefile for the project
+
+- contact-info.csv, a file with randomly-generated fabricated contact
+  information; any similarity to actual persons is coincidental
+
+- addressbook.h, a header file including struct definitions and
+  function prototypes for vcard and bst operations
+
+- vcard.c, which needs to be completed by the student
+
+- bst.c, which needs to be completed by the student
+
+- main.c, which runs a shell "abk" for interacting with the binary
+  search tree address book
